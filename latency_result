@@ -1,0 +1,7 @@
+# Hasil Analisis QoS
+Tujuan
+Analisis kualitas layanan untuk situs https://akademik.unsri.ac.id menggunakan Wireshark.
+
+Metrik QoS
+*Latency: Waktu respons rata-rata.
+*packet Loss: Persentase paket yang hilang.
