@@ -6,6 +6,7 @@ Metrik QoS
 *Latency: Waktu respons rata-rata.
 *packet Loss: Persentase paket yang hilang.
 
+# Tabel latency
 | Permintaan  | Waktu Permintaan (ms) | Waktu Respons (ms) | Latency (ms) |
 |-------------|------------------------|---------------------|---------------|
 | Request 1   | 1.666205             | 2.856003          | 1,1         |
